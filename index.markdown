@@ -18,7 +18,7 @@ gradient-based optimization and sampling.
 
 
 More generally, I am interested in developping the computational
-and statistical tools for building systems that make optimal
+and statistical tools for building systems that can make optimal
 decisions under uncertainty.
 
 # Projects
