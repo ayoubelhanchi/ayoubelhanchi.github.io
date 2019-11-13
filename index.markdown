@@ -13,7 +13,7 @@ I completed my bachelor's degree in
 
 
 My research interests lie at the intersection of theory and algorithms
-for machine learning and statistics, with a focus on large-scale stochastic
+for machine learning and statistics, with a focus on large-scale
 gradient-based optimization and sampling.
 
 
