@@ -32,5 +32,5 @@ decisions under uncertainty.
 <a href="files/Research_project_presentation.pdf">slides</a>
 + *Statistical learning under a non-iid data generating process.*  
 <a href="files/Statistical learning under a non-iid data generating process.pdf">pdf</a>
-+ *Optimal SGLD for Approximate Bayesian Inference.*    
++ *Optimal SGLD for approximate Bayesian inference.*    
 <a href="files/Optimal SGLD for Approximate Bayesian Inference.pdf">pdf</a>
