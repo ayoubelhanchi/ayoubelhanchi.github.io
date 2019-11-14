@@ -17,7 +17,7 @@ for machine learning and statistics, with a focus on large-scale
 gradient-based optimization and sampling.
 
 
-More generally, I am interested in developping the computational
+More generally, I am interested in developing the computational
 and statistical tools for building systems that can make optimal
 decisions under uncertainty.
 
