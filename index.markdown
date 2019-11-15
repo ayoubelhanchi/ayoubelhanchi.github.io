@@ -21,7 +21,7 @@ More generally, I am interested in developing the computational
 and statistical tools for building systems that can make optimal
 decisions under uncertainty.
 
-![CV](files/CV.pdf) / ![GitHub](https://github.com/Aelhanchi)
+[CV](files/CV.pdf) / [GitHub](https://github.com/Aelhanchi)
 
 # Projects
 + *SGD as a two step approximation to gradient flow.*  
