@@ -28,7 +28,7 @@ decisions under uncertainty.
 <a href="files/Optimization.pdf">pdf</a>
 + *Implementing variance reduced stochastic gradient Langevin dynamics.*  
 <a href="files/project_pitch.pdf">proposal</a> \|
-<a href="files/literature_review.pdf">review</a> \| <a href="https://github.com/Aelhanchi/Pytorch-MCMC">code</a>
+<a href="files/literature_review.pdf">review</a> \| <a href="https://github.com/Aelhanchi/Pytorch-VR">code</a>
 + *Scaling up MCMC for Bayesian inference using adaptive data subsampling.*  
 <a href="files/Research_project_report.pdf">pdf</a> \|
 <a href="files/Research_project_presentation.pdf">slides</a>
