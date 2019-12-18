@@ -21,9 +21,11 @@ More generally, I am interested in developing the computational
 and statistical tools for building systems that can make optimal
 decisions under uncertainty.
 
+[CV](files/CV.pdf) / [GitHub](https://github.com/Aelhanchi)
+
 # Projects
 + *Memory Efficient Variance Reduced Optimization and Sampling for Deep Learning*  
-<a href="files/project_pitch.pdf">pdf</a> \| <a href="https://github.com/Aelhanchi/torch_vr">code 1</a> \| <a href="https://github.com/Aelhanchi/torch_sample">code 2</a> 
+<a href="files/project_pitch.pdf">pdf</a> \| <a href="https://github.com/Aelhanchi/torch_vr">code 1</a> \| <a href="https://github.com/Aelhanchi/torch_sample">code 2</a>
 + *SGD as a two step approximation to gradient flow.*  
 <a href="files/Optimization.pdf">pdf</a>
 + *Scaling up MCMC for Bayesian inference using adaptive data subsampling.*  
