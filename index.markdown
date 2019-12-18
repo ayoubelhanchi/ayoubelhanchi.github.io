@@ -22,11 +22,10 @@ and statistical tools for building systems that can make optimal
 decisions under uncertainty.
 
 # Projects
++ *Memory Efficient Variance Reduced Optimization and Sampling for Deep Learning*  
+<a href="files/project_pitch.pdf">pdf</a> \| <a href="https://github.com/Aelhanchi/torch_vr">code 1</a> \| <a href="https://github.com/Aelhanchi/torch_sample">code 2</a> 
 + *SGD as a two step approximation to gradient flow.*  
 <a href="files/Optimization.pdf">pdf</a>
-+ *Implementing variance reduced stochastic gradient Langevin dynamics.*  
-<a href="files/project_pitch.pdf">proposal</a> \|
-<a href="files/literature_review.pdf">review</a> \| <a href="https://github.com/Aelhanchi/Pytorch-MCMC">code</a>
 + *Scaling up MCMC for Bayesian inference using adaptive data subsampling.*  
 <a href="files/Research_project_report.pdf">pdf</a> \|
 <a href="files/Research_project_presentation.pdf">slides</a>
