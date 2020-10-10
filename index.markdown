@@ -14,7 +14,7 @@ I completed my bachelor's degree in
 
 My research interests lie at the intersection of theory and algorithms
 for machine learning and statistics. My recent focus
-has been on developping new variance reduction methods to
+has been on developing new variance reduction methods to
 accelerate the training of large models.
 In particular, I have been exploring the use of online and reinforcement
 learning methods to design better optimization and sampling algorithms.
