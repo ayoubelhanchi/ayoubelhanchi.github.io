@@ -1,0 +1,44 @@
+I"�<p><img style="float: right;" src="files/picture.jpg" width="200" height="266" />
+I am a master’s student in Mathematics and Statistics at
+<a href="https://www.mcgill.ca/">McGill University</a>,
+supervised by <a href="http://www.math.mcgill.ca/dstephens/">David Stephens</a>.
+I completed my bachelor’s degree in
+<a href="https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc">Honours Mathematics and Computer Science</a>.</p>
+
+<p>My research interests lie at the intersection of theory and algorithms
+for machine learning and statistics. My recent focus
+has been on developping new variance reduction methods to
+accelerate the training of large models.
+In particular, I have been exploring the use of online and reinforcement
+learning methods to design better optimization and sampling algorithms.</p>
+
+<p>More broadly, I am interested in developing the computational<br />
+and statistical tools for building systems that can make optimal<br />
+decisions under uncertainty.</p>
+
+<p><a href="files/CV.pdf">Resume</a></p>
+
+<h3 id="papers">Papers</h3>
+<ul>
+  <li><em>Adaptive Importance Sampling for Finite-Sum
+Optimization and Sampling<br />
+with Decreasing Step-Sizes.</em><br />
+<strong>Ayoub El Hanchi</strong>, David A. Stephens<br />
+(to appear in) Advances in Neural Information Processing Systems, 2020<br />
+<a href="files/paper_1.pdf">pdf</a> |
+<a href="files/code_1.zip">code</a></li>
+</ul>
+
+<h2 id="previous-reports">Previous Reports</h2>
+<ul>
+  <li><em>SGD as a two step approximation to gradient flow.</em><br />
+<a href="files/Optimization.pdf">pdf</a></li>
+  <li><em>Scaling up MCMC for Bayesian inference using adaptive data subsampling.</em><br />
+<a href="files/Research_project_report.pdf">pdf</a> |
+<a href="files/Research_project_presentation.pdf">slides</a></li>
+  <li><em>Statistical learning under a non-iid data generating process.</em><br />
+<a href="files/Statistical learning under a non-iid data generating process.pdf">pdf</a></li>
+  <li><em>Optimal SGLD for approximate Bayesian inference.</em>  <br />
+<a href="files/Optimal SGLD for Approximate Bayesian Inference.pdf">pdf</a></li>
+</ul>
+:ET
