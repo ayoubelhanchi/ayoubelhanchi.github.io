@@ -17,23 +17,31 @@ for machine learning and statistics. My recent focus
 has been on developing new variance reduction methods to
 accelerate the training of large models.
 In particular, I have been exploring the use of online and reinforcement
-learning methods to design better optimization and sampling algorithms.
+learning ideas to design better optimization and sampling algorithms.
 
 
 More broadly, I am interested in developing the computational  
 and statistical tools needed to build systems that can make optimal  
 decisions under uncertainty.
 
-[Resume](files/CV.pdf)
+[Resume](files/resume.pdf)
 
 
 ### Papers ###
-*Adaptive Importance Sampling for Finite-Sum
-Optimization and Sampling with Decreasing Step-Sizes*  
-**Ayoub El Hanchi**, David A. Stephens  
-(To appear in) Advances in Neural Information Processing Systems, 2020  
-<a href="files/paper_1.pdf">pdf</a> \|
-<a href="files/code_1.zip">code
+**Adaptive Importance Sampling for Finite-Sum
+Optimization and Sampling with Decreasing Step-Sizes.**  
+Ayoub El Hanchi, David A. Stephens  
+*(To appear in) Advances in Neural Information Processing Systems, 2020*  
+<a href="files/paper_1.pdf">pdf</a>
+
+
+### Software ###
+**TorchVr (in progress)**  
+A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.  
+All samplers are written in C++ using an efficient tree implementation for increased performance.
+The C++ code is then exposed to python
+using [pybind11](https://github.com/pybind/pybind11).  
+<a href="files/code_1.zip">source
 
 ### Previous Reports  ###
 + *Langevin Diffusion as Gradient Flow in Wasserstein Space.*  

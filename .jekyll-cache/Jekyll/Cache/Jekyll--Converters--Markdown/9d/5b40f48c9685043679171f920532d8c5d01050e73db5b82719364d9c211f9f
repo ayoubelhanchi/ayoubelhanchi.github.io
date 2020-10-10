@@ -1,0 +1,46 @@
+I"	<p><img style="float: right;" src="files/picture.jpg" width="200" height="266" />
+I am a master’s student in Mathematics and Statistics at
+<a href="https://www.mcgill.ca/">McGill University</a>,
+supervised by <a href="http://www.math.mcgill.ca/dstephens/">David Stephens</a>.
+I completed my bachelor’s degree in
+<a href="https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc">Honours Mathematics and Computer Science</a>.</p>
+
+<p>My research interests lie at the intersection of theory and algorithms
+for machine learning and statistics. My recent focus
+has been on developing new variance reduction methods to
+accelerate the training of large models.
+In particular, I have been exploring the use of online and reinforcement
+learning ideas to design better optimization and sampling algorithms.</p>
+
+<p>More broadly, I am interested in developing the computational<br />
+and statistical tools needed to build systems that can make optimal<br />
+decisions under uncertainty.</p>
+
+<p><a href="files/CV.pdf">Resume</a></p>
+
+<h3 id="papers">Papers</h3>
+<p><strong>Adaptive Importance Sampling for Finite-Sum
+Optimization and Sampling with Decreasing Step-Sizes.</strong><br />
+Ayoub El Hanchi, David A. Stephens<br />
+<em>(To appear in) Advances in Neural Information Processing Systems, 2020</em><br />
+<a href="files/paper_1.pdf">pdf</a></p>
+
+<h3 id="software">Software</h3>
+<p><strong>TorchVr.</strong><br />
+A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.<br />
+All samplers are written in C++ using an efficient tree implementation for increased performance.
+The C++ code is then exposed to python
+using pybind11.<br />
+<a href="files/code_1.zip">source</a></p>
+
+<h3 id="previous-reports">Previous Reports</h3>
+<ul>
+  <li><em>Langevin Diffusion as Gradient Flow in Wasserstein Space.</em><br />
+<a href="files/report_4.pdf">pdf</a></li>
+  <li><em>Scaling up MCMC for Bayesian inference using adaptive data subsampling.</em><br />
+<a href="files/report_3.pdf">pdf</a> |
+<a href="files/presentation_2.pdf">slides</a></li>
+  <li><em>Statistical learning under a non-iid data generating process.</em><br />
+<a href="files/report_2.pdf">pdf</a></li>
+</ul>
+:ET
