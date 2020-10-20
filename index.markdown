@@ -32,7 +32,7 @@ decisions under uncertainty.
 Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens  
 *(To appear in) Advances in Neural Information Processing Systems, 2020*  
-<a href="files/paper_1.pdf">pdf</a>
+<a href="files/paper_1.pdf">paper</a>
 
 
 ### Software ###
