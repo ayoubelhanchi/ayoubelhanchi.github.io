@@ -1,5 +1,4 @@
-I"Ý
-<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_1.jpg" /></p>
+I"4<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_1.jpg" /></p>
 
 <p>I am a masterâ€™s student in Mathematics and Statistics at
 <a href="https://www.mcgill.ca/">McGill University</a>,
@@ -25,7 +24,7 @@ decisions under uncertainty.</p>
 Optimization and Sampling with Decreasing Step-Sizes.</strong><br />
 Ayoub El Hanchi, David A. Stephens<br />
 <em>(To appear in) Advances in Neural Information Processing Systems, 2020</em><br />
-<a href="files/paper_1.pdf">paper</a></p>
+<a href="files/paper_1.pdf">paper</a> | <a href="presentation_1.pdf">slides</a> | <a href="poster_1.pdf">poster</a></p>
 
 <h3 id="preprints">Preprints</h3>
 <p><strong>A Lyapunov Analysis of Loopless SARAH.</strong><br />
@@ -43,11 +42,11 @@ using <a href="https://github.com/pybind/pybind11">pybind11</a>.<br />
 <h3 id="previous-reports">Previous Reports</h3>
 <ul>
   <li><em>Langevin Diffusion as Gradient Flow in Wasserstein Space.</em><br />
-<a href="files/report_4.pdf">pdf</a></li>
+<a href="files/report_4.pdf">report</a></li>
   <li><em>Scaling up MCMC for Bayesian inference using adaptive data subsampling.</em><br />
-<a href="files/report_3.pdf">pdf</a> |
-<a href="files/presentation_2.pdf">slides</a></li>
+<a href="files/report_3.pdf">report</a> |
+<a href="files/presentation_4.pdf">slides</a></li>
   <li><em>Statistical learning under a non-iid data generating process.</em><br />
-<a href="files/report_2.pdf">pdf</a></li>
+<a href="files/report_2.pdf">report</a></li>
 </ul>
 :ET

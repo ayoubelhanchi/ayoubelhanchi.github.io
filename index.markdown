@@ -37,7 +37,7 @@ decisions under uncertainty.
 Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens  
 *(To appear in) Advances in Neural Information Processing Systems, 2020*  
-<a href="files/paper_1.pdf">paper</a>
+<a href="files/paper_1.pdf">paper</a> | [slides](presentation_1.pdf) | [poster](poster_1.pdf)
 
 ### Preprints ###
 **A Lyapunov Analysis of Loopless SARAH.**  
@@ -54,9 +54,9 @@ using [pybind11](https://github.com/pybind/pybind11).
 
 ### Previous Reports  ###
 + *Langevin Diffusion as Gradient Flow in Wasserstein Space.*  
-<a href="files/report_4.pdf">pdf</a>
+<a href="files/report_4.pdf">report</a>
 + *Scaling up MCMC for Bayesian inference using adaptive data subsampling.*  
-<a href="files/report_3.pdf">pdf</a> \|
-<a href="files/presentation_2.pdf">slides</a>
+<a href="files/report_3.pdf">report</a> \|
+<a href="files/presentation_4.pdf">slides</a>
 + *Statistical learning under a non-iid data generating process.*  
-<a href="files/report_2.pdf">pdf</a>
+<a href="files/report_2.pdf">report</a>
