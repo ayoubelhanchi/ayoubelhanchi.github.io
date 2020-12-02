@@ -34,6 +34,10 @@ Ayoub El Hanchi, David A. Stephens
 *(To appear in) Advances in Neural Information Processing Systems, 2020*  
 <a href="files/paper_1.pdf">paper</a>
 
+### Preprints ###
+**A Lyapunov Analysis of Loopless SARAH.**
+Ayoub El Hanchi
+<a href="files/paper_2.pdf">paper</a>
 
 ### Software ###
 **TorchVr (in progress)**  
