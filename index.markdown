@@ -1,10 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
-<img style="float: right;" src="files/picture.jpg" width="200" height="266">
+<img style="float: right;" src="files/picture_1.jpg" width="200" height="266">
 I am a master's student in Mathematics and Statistics at
 [McGill University](https://www.mcgill.ca/),
 supervised by [David Stephens](http://www.math.mcgill.ca/dstephens/).
@@ -24,7 +21,7 @@ More broadly, I am interested in developing the computational
 and statistical tools needed to build systems that can make optimal  
 decisions under uncertainty.
 
-[Resume](files/resume.pdf)
+[Resume](files/resume.pdf) / [Google Scholar](https://scholar.google.com/citations?user=5ZzcGmgAAAAJ&hl=en&oi=ao)
 
 
 ### Papers ###
