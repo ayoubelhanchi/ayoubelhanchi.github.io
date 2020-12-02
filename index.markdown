@@ -1,7 +1,15 @@
 ---
 layout: page
 ---
-<img style="float: right;" src="files/picture_1.jpg" width="200" height="266">
+<img style="float: right;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    max-width: 30%;
+    border: 6px solid #ddd;
+    border-radius: 50%;
+    box-sizing: border-box;"
+    src="files/picture_1.jpg">
+
 I am a master's student in Mathematics and Statistics at
 [McGill University](https://www.mcgill.ca/),
 supervised by [David Stephens](http://www.math.mcgill.ca/dstephens/).
