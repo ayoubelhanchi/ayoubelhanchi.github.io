@@ -19,11 +19,9 @@ I completed my bachelor's degree in
 
 My research interests lie at the intersection of theory and algorithms
 for machine learning and statistics. My recent focus
-has been on developing new variance reduction methods to
-accelerate the training of large models.
-In particular, I have been exploring the use of online and reinforcement
-learning ideas to design better optimization and sampling algorithms.
-
+has been on developing new variance reduction methods 
+based on importance sampling to accelerate the convergence
+of optimization and sampling algorithms for large finite-sum problems.
 
 More broadly, I am interested in developing the computational  
 and statistical tools needed to build systems that can make optimal  
@@ -36,16 +34,29 @@ decisions under uncertainty.
 **Adaptive Importance Sampling for Finite-Sum
 Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens  
-*(To appear in) Advances in Neural Information Processing Systems, 2020*  
+*Advances in Neural Information Processing Systems, 2020*  
 <a href="files/paper_1.pdf">paper</a> | [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)
 
 ### Preprints ###
+**A Theory of Variance Reduction for Optimization and Sampling based on Importance Sampling. (in progress, will be updated soon).**  
+Ayoub El Hanchi  
+paper
+
+**A Fast Algorithm for Dynamic Lower-Bounded Weighted Random Sampling. (in progress, will be updated soon)**  
+Ayoub El Hanchi  
+paper
+
 **A Lyapunov Analysis of Loopless SARAH.**  
 Ayoub El Hanchi  
 <a href="files/paper_2.pdf">paper</a>
 
+### Thesis ###
+**Large Scale Optimization and Sampling for Machine Learning and Statistics. (in progress)**  
+Ayoub El Hanchi  
+[draft](files/thesis_1.pdf)
+
 ### Software ###
-**TorchVr (in progress)**  
+**TorchVr. (in progress)**  
 A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.  
 All samplers are written in C++ using an efficient tree implementation for increased performance.
 The C++ code is then exposed to python

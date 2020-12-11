@@ -1,4 +1,4 @@
-I"4<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_1.jpg" /></p>
+I"X<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_1.jpg" /></p>
 
 <p>I am a master’s student in Mathematics and Statistics at
 <a href="https://www.mcgill.ca/">McGill University</a>,
@@ -23,23 +23,36 @@ decisions under uncertainty.</p>
 <p><strong>Adaptive Importance Sampling for Finite-Sum
 Optimization and Sampling with Decreasing Step-Sizes.</strong><br />
 Ayoub El Hanchi, David A. Stephens<br />
-<em>(To appear in) Advances in Neural Information Processing Systems, 2020</em><br />
-<a href="files/paper_1.pdf">paper</a> | <a href="presentation_1.pdf">slides</a> | <a href="poster_1.pdf">poster</a></p>
+<em>Advances in Neural Information Processing Systems, 2020</em><br />
+<a href="files/paper_1.pdf">paper</a> | <a href="files/presentation_1.pdf">slides</a> | <a href="files/poster_1.pdf">poster</a></p>
 
 <h3 id="preprints">Preprints</h3>
+<p><strong>A Theory of Variance Reduction for Optimization and Sampling based on Importance Sampling. (in progress, will be updated soon).</strong><br />
+Ayoub El Hanchi<br />
+paper</p>
+
+<p><strong>A Fast Algorithm for Dynamic Lower-Bounded Weighted Random Sampling. (in progress, will be updated soon)</strong><br />
+Ayoub El Hanchi<br />
+paper</p>
+
 <p><strong>A Lyapunov Analysis of Loopless SARAH.</strong><br />
 Ayoub El Hanchi<br />
 <a href="files/paper_2.pdf">paper</a></p>
 
+<h3 id="thesis">Thesis</h3>
+<p><strong>Large Scale Optimization and Sampling for Machine Learning and Statistics. (in progress)</strong><br />
+Ayoub El Hanchi<br />
+<a href="files/thesis_1.pdf">draft</a></p>
+
 <h3 id="software">Software</h3>
-<p><strong>TorchVr (in progress)</strong><br />
+<p><strong>TorchVr. (in progress)</strong><br />
 A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.<br />
 All samplers are written in C++ using an efficient tree implementation for increased performance.
 The C++ code is then exposed to python
 using <a href="https://github.com/pybind/pybind11">pybind11</a>.<br />
 <a href="files/code_1.zip">source</a></p>
 
-<h3 id="previous-reports">Previous Reports</h3>
+<h3 id="old-reports">Old Reports</h3>
 <ul>
   <li><em>Langevin Diffusion as Gradient Flow in Wasserstein Space.</em><br />
 <a href="files/report_4.pdf">report</a></li>
