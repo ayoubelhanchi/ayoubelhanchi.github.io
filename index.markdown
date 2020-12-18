@@ -53,7 +53,6 @@ Ayoub El Hanchi
 
 **A Fast Algorithm for Dynamic Lower-Bounded Weighted Random Sampling. (in progress, will be updated soon)**  
 Ayoub El Hanchi  
-paper
 
 ### Software ###
 **TorchVr (in progress)**  
