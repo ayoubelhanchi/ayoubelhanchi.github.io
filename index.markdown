@@ -37,23 +37,22 @@ Ayoub El Hanchi, David A. Stephens
 *Advances in Neural Information Processing Systems, 2020*  
 <a href="files/paper_1.pdf">paper</a> | [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)
 
-### Thesis ###
-**Large Scale Optimization and Sampling for Machine Learning and Statistics. (in progress)**  
-Ayoub El Hanchi  
-[draft](files/thesis_1.pdf)
-
 ### Preprints ###
+**Stochastic Reweighted Gradient Descent.**  
+Ayoub El Hanchi, David A. Stephens  
+[paper](files/paper_3.pdf)
+
+
 **A Lyapunov Analysis of Loopless SARAH.**  
 Ayoub El Hanchi  
 [paper](files/paper_2.pdf)
 
-**A Theory of Variance Reduction for Optimization and Sampling based on Importance Sampling. (in progress).**  
+### Thesis ###
+**Large Scale Optimization and Sampling for Machine Learning and Statistics. (in progress)**  
 Ayoub El Hanchi  
-[early draft](files/paper_3.pdf)
+[thesis](files/thesis_1.pdf)
 
-**A Fast Algorithm for Dynamic Lower-Bounded Weighted Random Sampling. (in progress, will be updated soon)**  
-Ayoub El Hanchi  
-
+<!---
 ### Software ###
 **TorchVr (in progress)**  
 A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.  
@@ -70,3 +69,4 @@ using [pybind11](https://github.com/pybind/pybind11).
 <a href="files/presentation_4.pdf">slides</a>
 + *Statistical learning under a non-iid data generating process.*  
 <a href="files/report_2.pdf">report</a>
+-->
