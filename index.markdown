@@ -8,7 +8,7 @@ layout: page
     border: 6px solid #ddd;
     border-radius: 50%;
     box-sizing: border-box;"
-    src="files/picture_1.jpg">
+    src="files/picture_3.jpg">
 
 I am a master's student in Mathematics and Statistics at
 [McGill University](https://www.mcgill.ca/),
