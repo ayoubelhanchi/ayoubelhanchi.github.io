@@ -10,22 +10,12 @@ layout: page
     box-sizing: border-box;"
     src="files/picture_3.jpg">
 
-I am a master's student in Mathematics and Statistics at
-[McGill University](https://www.mcgill.ca/),
-supervised by [David Stephens](http://www.math.mcgill.ca/dstephens/).
-I completed my bachelor's degree in
-[Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc).
+I am a first year Ph.D. student in the [Department of Computer Science](https://web.cs.toronto.edu/) at the University of Toronto, supervised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/). Previously, I did my M.Sc. degree in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/) at McGill University under the supervision of [David Stephens](https://www.math.mcgill.ca/dstephens/). Before that, I did my B.Sc. degree in
+[Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University.
 
-
-My research interests lie at the intersection of theory and algorithms
-for machine learning and statistics. My recent focus
-has been on developing new variance reduction methods 
-based on importance sampling to accelerate the convergence
-of optimization and sampling algorithms for large finite-sum problems.
-
-More broadly, I am interested in developing the computational  
-and statistical tools needed to build systems that can make optimal  
-decisions under uncertainty.
+My goal is to develop and refine the computational and statistical tools needed to build agents and systems that make optimal decisions under uncertainty.
+On the computational side, I have focused on gradient-based stochastic optimization and sampling algorithms.
+On the statistical side, I am currently exploring how the use of intermediate data representations can improve our ability to process and exploit data for optimal decision making.
 
 [Resume](files/resume.pdf) / [Google Scholar](https://scholar.google.com/citations?user=5ZzcGmgAAAAJ&hl=en&oi=ao)
 
@@ -35,9 +25,9 @@ decisions under uncertainty.
 Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens  
 *Advances in Neural Information Processing Systems, 2020*  
-<a href="files/paper_1.pdf">paper</a> | [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)
+[paper](files/paper_1.pdf) <!---| [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)-->
 
-### Preprints ###
+### Working papers ###
 **Stochastic Reweighted Gradient Descent.**  
 Ayoub El Hanchi, David A. Stephens  
 [paper](files/paper_3.pdf)
@@ -48,8 +38,8 @@ Ayoub El Hanchi
 [paper](files/paper_2.pdf)
 
 ### Thesis ###
-**Large Scale Optimization and Sampling for Machine Learning and Statistics. (in progress)**  
-Ayoub El Hanchi  
+**Large Scale Optimization and Sampling for Machine Learning and Statistics.**  
+M.Sc. in Mathematics and Statistics, McGill University, May 2021.  
 [thesis](files/thesis_1.pdf)
 
 <!---
