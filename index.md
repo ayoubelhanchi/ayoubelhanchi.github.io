@@ -21,7 +21,7 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 **Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.**  
 Ayoub El Hanchi, Murat A. Erdogdu.  
-*Advances in Neural Information Processing Systems, 2023. (To appear)*  
+*Conference on Neural Information Processing Systems, 2023. (To appear)*  
 [paper](files/paper_4.pdf)
 
 **Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions.**  
@@ -36,7 +36,7 @@ Ayoub El Hanchi, David A. Stephens, Chris J. Maddison.
 
 **Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens.  
-*Advances in Neural Information Processing Systems, 2020.*  
+*Conference on Neural Information Processing Systems, 2020.*  
 [paper](files/paper_1.pdf) <!---| [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)-->
 
 <!---
