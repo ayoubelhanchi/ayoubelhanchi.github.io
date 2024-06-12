@@ -19,7 +19,7 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
-**Minimax Linear Regression under the Quantile Risk.**
+**Minimax Linear Regression under the Quantile Risk.**  
 Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.  
 *Conference on Learning Theory, 2024.*
 [paper](files/paper_5.pdf)
