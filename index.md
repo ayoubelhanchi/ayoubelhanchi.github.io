@@ -8,7 +8,7 @@ layout: page
     border: 6px solid #ddd;
     border-radius: 50%;
     box-sizing: border-box;"
-    src="files/picture_3.jpg">
+    src="files/picture_3.png">
 
 I am a third year Ph.D. student in the [Department of Computer Science](https://web.cs.toronto.edu/) at the University of Toronto, supervised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/). Previously, I did my M.Sc. degree in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/) at McGill University under the supervision of [David Stephens](https://www.math.mcgill.ca/dstephens/). Before that, I did my B.Sc. degree in
 [Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University.
@@ -19,9 +19,14 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
+**Minimax Linear Regression under the Quantile Risk.**
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.
+*Conference on Learning Theory, 2024.*
+[paper](files/paper_5.pdf)
+
 **Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.**  
 Ayoub El Hanchi, Murat A. Erdogdu.  
-*Conference on Neural Information Processing Systems, 2023. (To appear)*  
+*Conference on Neural Information Processing Systems, 2023.*  
 [paper](files/paper_4.pdf)
 
 **Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions.**  
