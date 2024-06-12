@@ -21,27 +21,32 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 **Minimax Linear Regression under the Quantile Risk.**  
 Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.  
-*Conference on Learning Theory, 2024.*  
+<!---*Conference on Learning Theory, 2024.*  -->
+COLT 2024.  
 [paper](files/paper_5.pdf)
 
 **Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.**  
 Ayoub El Hanchi, Murat A. Erdogdu.  
-*Conference on Neural Information Processing Systems, 2023.*  
+<!---*Conference on Neural Information Processing Systems, 2023.*  -->
+NeurIPS 2023.
 [paper](files/paper_4.pdf)
 
 **Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions.**  
 Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison.  
-*International Conference on Learning Representations, 2023.*  
+<!---*International Conference on Learning Representations, 2023.*  -->
+ICLR 2023.
 [paper](files/paper_3.pdf)
 
 **Stochastic Reweighted Gradient Descent.**  
 Ayoub El Hanchi, David A. Stephens, Chris J. Maddison.  
-*International Conference on Machine Learning, 2022.*  
+<!---*International Conference on Machine Learning, 2022.*  -->
+ICML 2022.
 [paper](files/paper_2.pdf)
 
 **Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes.**  
 Ayoub El Hanchi, David A. Stephens.  
-*Conference on Neural Information Processing Systems, 2020.*  
+<!---*Conference on Neural Information Processing Systems, 2020.*  -->
+NeurIPS 2020.
 [paper](files/paper_1.pdf) <!---| [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)-->
 
 <!---
