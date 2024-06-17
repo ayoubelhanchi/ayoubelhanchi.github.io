@@ -19,35 +19,31 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
-[Minimax Linear Regression under the Quantile Risk.](files/paper_5.pdf)  
-Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.  
+[Minimax Linear Regression under the Quantile Risk](files/paper_5.pdf)  
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu  
 <!---*Conference on Learning Theory, 2024.*  -->
-COLT 2024.  
+COLT 2024  
 <!---[paper](files/paper_5.pdf)-->
 
-**Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.**  
-Ayoub El Hanchi, Murat A. Erdogdu.  
+[Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression](files/paper_4.pdf)  
+Ayoub El Hanchi, Murat A. Erdogdu  
 <!---*Conference on Neural Information Processing Systems, 2023.*  -->
-NeurIPS 2023.  
-[paper](files/paper_4.pdf)
+NeurIPS 2023  
 
-**Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions.**  
-Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison.  
+[Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions](files/paper_3.pdf)  
+Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison  
 <!---*International Conference on Learning Representations, 2023.*  -->
-ICLR 2023.  
-[paper](files/paper_3.pdf)
+ICLR 2023  
 
-**Stochastic Reweighted Gradient Descent.**  
-Ayoub El Hanchi, David A. Stephens, Chris J. Maddison.  
+[Stochastic Reweighted Gradient Descent](files/paper_2.pdf)  
+Ayoub El Hanchi, David A. Stephens, Chris J. Maddison  
 <!---*International Conference on Machine Learning, 2022.*  -->
-ICML 2022.  
-[paper](files/paper_2.pdf)
+ICML 2022  
 
-**Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes.**  
-Ayoub El Hanchi, David A. Stephens.  
+[Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes](files/paper_1.pdf)  
+Ayoub El Hanchi, David A. Stephens  
 <!---*Conference on Neural Information Processing Systems, 2020.*  -->
-NeurIPS 2020.  
-[paper](files/paper_1.pdf) <!---| [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)-->
+NeurIPS 2020  
 
 <!---
 ### Notes ###
