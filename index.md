@@ -19,11 +19,11 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
-**Minimax Linear Regression under the Quantile Risk.**  
+[Minimax Linear Regression under the Quantile Risk.](files/paper_5.pdf)  
 Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.  
 <!---*Conference on Learning Theory, 2024.*  -->
 COLT 2024.  
-[paper](files/paper_5.pdf)
+<!---[paper](files/paper_5.pdf)-->
 
 **Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.**  
 Ayoub El Hanchi, Murat A. Erdogdu.  

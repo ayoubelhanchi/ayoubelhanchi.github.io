@@ -1,4 +1,4 @@
-I"z<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_3.jpg" /></p>
+I"¢<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_3.png" /></p>
 
 <p>I am a third year Ph.D. student in the <a href="https://web.cs.toronto.edu/">Department of Computer Science</a> at the University of Toronto, supervised by <a href="https://www.cs.toronto.edu/~cmaddis/">Chris Maddison</a> and <a href="https://www.cs.toronto.edu/~erdogdu/">Murat Erdogdu</a>. Previously, I did my M.Sc. degree in the <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics</a> at McGill University under the supervision of <a href="https://www.math.mcgill.ca/dstephens/">David Stephens</a>. Before that, I did my B.Sc. degree in
 <a href="https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc">Honours Mathematics and Computer Science</a> at McGill University.</p>
@@ -7,24 +7,34 @@
 
 <h3 id="papers">Papers</h3>
 
+<p><strong>Minimax Linear Regression under the Quantile Risk.</strong><br />
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu.<br />
+<!---*Conference on Learning Theory, 2024.*  -->
+COLT 2024.<br />
+<a href="files/paper_5.pdf">paper</a></p>
+
 <p><strong>Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression.</strong><br />
 Ayoub El Hanchi, Murat A. Erdogdu.<br />
-<em>Conference on Neural Information Processing Systems, 2023. (To appear)</em><br />
+<!---*Conference on Neural Information Processing Systems, 2023.*  -->
+NeurIPS 2023.<br />
 <a href="files/paper_4.pdf">paper</a></p>
 
 <p><strong>Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions.</strong><br />
 Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison.<br />
-<em>International Conference on Learning Representations, 2023.</em><br />
+<!---*International Conference on Learning Representations, 2023.*  -->
+ICLR 2023.<br />
 <a href="files/paper_3.pdf">paper</a></p>
 
 <p><strong>Stochastic Reweighted Gradient Descent.</strong><br />
 Ayoub El Hanchi, David A. Stephens, Chris J. Maddison.<br />
-<em>International Conference on Machine Learning, 2022.</em><br />
+<!---*International Conference on Machine Learning, 2022.*  -->
+ICML 2022.<br />
 <a href="files/paper_2.pdf">paper</a></p>
 
 <p><strong>Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes.</strong><br />
 Ayoub El Hanchi, David A. Stephens.<br />
-<em>Conference on Neural Information Processing Systems, 2020.</em><br />
+<!---*Conference on Neural Information Processing Systems, 2020.*  -->
+NeurIPS 2020.<br />
 <a href="files/paper_1.pdf">paper</a> <!---| [slides](files/presentation_1.pdf) | [poster](files/poster_1.pdf)--></p>
 
 <!---
