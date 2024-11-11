@@ -19,6 +19,10 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
+[On the Efficiency of ERM in Feature Learning](files/paper_6.pdf)  
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu  
+NeurIPS 2024  
+
 [Minimax Linear Regression under the Quantile Risk](files/paper_5.pdf)  
 Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu  
 <!---*Conference on Learning Theory, 2024.*  -->
