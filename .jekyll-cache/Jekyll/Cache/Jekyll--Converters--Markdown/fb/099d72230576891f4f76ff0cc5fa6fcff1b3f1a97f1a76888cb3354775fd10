@@ -1,0 +1,73 @@
+I"‚<p><img style="float: right;     margin-top: 25px;     margin-bottom: 35px;     max-width: 30%;     border: 6px solid #ddd;     border-radius: 50%;     box-sizing: border-box;" src="files/picture_3.png" /></p>
+
+<p>I am a third year Ph.D. student in the <a href="https://web.cs.toronto.edu/">Department of Computer Science</a> at the University of Toronto, supervised by <a href="https://www.cs.toronto.edu/~cmaddis/">Chris Maddison</a> and <a href="https://www.cs.toronto.edu/~erdogdu/">Murat Erdogdu</a>. Previously, I did my M.Sc. degree in the <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics</a> at McGill University under the supervision of <a href="https://www.math.mcgill.ca/dstephens/">David Stephens</a>. Before that, I did my B.Sc. degree in
+<a href="https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc">Honours Mathematics and Computer Science</a> at McGill University.</p>
+
+<!---[Resume](files/resume.pdf) / [Google Scholar](https://scholar.google.com/citations?user=5ZzcGmgAAAAJ&hl=en&oi=ao)-->
+
+<h3 id="papers">Papers</h3>
+
+<p><a href="files/paper_6.pdf">On the Efficiency of ERM in Feature Learning</a><br />
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu<br />
+NeurIPS 2024</p>
+
+<p><a href="files/paper_5.pdf">Minimax Linear Regression under the Quantile Risk</a><br />
+Ayoub El Hanchi, Chris J. Maddison, Murat A. Erdogdu<br />
+<!---*Conference on Learning Theory, 2024.*  -->
+COLT 2024<br />
+<!---[paper](files/paper_5.pdf)--></p>
+
+<p><a href="files/paper_4.pdf">Optimal Excess Risk Bounds for Empirical Risk Minimization on p-Norm Linear Regression</a><br />
+Ayoub El Hanchi, Murat A. Erdogdu<br />
+<!---*Conference on Neural Information Processing Systems, 2023.*  -->
+NeurIPS 2023</p>
+
+<p><a href="files/paper_3.pdf">Contrastive Learning Can Find an Optimal Basis for Approximately View-invariant Functions</a><br />
+Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison<br />
+<!---*International Conference on Learning Representations, 2023.*  -->
+ICLR 2023</p>
+
+<p><a href="files/paper_2.pdf">Stochastic Reweighted Gradient Descent</a><br />
+Ayoub El Hanchi, David A. Stephens, Chris J. Maddison<br />
+<!---*International Conference on Machine Learning, 2022.*  -->
+ICML 2022</p>
+
+<p><a href="files/paper_1.pdf">Adaptive Importance Sampling for Finite-Sum Optimization and Sampling with Decreasing Step-Sizes</a><br />
+Ayoub El Hanchi, David A. Stephens<br />
+<!---*Conference on Neural Information Processing Systems, 2020.*  -->
+NeurIPS 2020</p>
+
+<!---
+### Notes ###
+
+
+
+**A Lyapunov Analysis of Loopless SARAH.**  
+Ayoub El Hanchi  
+[paper](files/paper_2.pdf)
+
+### Thesis ###
+**Large Scale Optimization and Sampling for Machine Learning and Statistics.**  
+M.Sc. in Mathematics and Statistics, McGill University, May 2021.  
+[thesis](files/thesis_1.pdf)
+-->
+
+<!---
+### Software ###
+**TorchVr (in progress)**  
+A PyTorch library providing PyTorch modules and samplers that produce efficient gradient estimators to accelerate training of large scale models.  
+All samplers are written in C++ using an efficient tree implementation for increased performance.
+The C++ code is then exposed to python
+using [pybind11](https://github.com/pybind/pybind11).  
+<a href="files/code_1.zip">source
+
+### Old Reports  ###
++ *Langevin Diffusion as Gradient Flow in Wasserstein Space.*  
+<a href="files/report_4.pdf">report</a>
++ *Scaling up MCMC for Bayesian inference using adaptive data subsampling.*  
+<a href="files/report_3.pdf">report</a> \|
+<a href="files/presentation_4.pdf">slides</a>
++ *Statistical learning under a non-iid data generating process.*  
+<a href="files/report_2.pdf">report</a>
+-->
+:ET
