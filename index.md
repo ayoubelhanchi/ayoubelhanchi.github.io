@@ -19,7 +19,7 @@ I am a final year Ph.D. student in the [Department of Computer Science](https://
 
 ### Papers ###
 
-[Geometric Analysis of PCA](files/paper_7.pdf)  
+[A Geometric Analysis of PCA](files/paper_7.pdf)  
 Ayoub El Hanchi, Murat A. Erdogdu, Chris J. Maddison  
 Neurips 2025  
 
