@@ -10,7 +10,7 @@ layout: page
     box-sizing: border-box;"
     src="files/picture_3.png">
 
-I am a final year Ph.D. student in the [Department of Computer Science](https://web.cs.toronto.edu/) at the University of Toronto, supervised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/). Previously, I did my M.Sc. degree in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/) at McGill University under the supervision of [David Stephens](https://www.math.mcgill.ca/dstephens/). Before that, I did my B.Sc. degree in
+I am a fifth year Ph.D. student in the [Department of Computer Science](https://web.cs.toronto.edu/) at the University of Toronto, supervised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Murat Erdogdu](https://www.cs.toronto.edu/~erdogdu/). Previously, I did my M.Sc. degree in the [Department of Mathematics and Statistics](https://www.mcgill.ca/mathstat/) at McGill University under the supervision of [David Stephens](https://www.math.mcgill.ca/dstephens/). Before that, I did my B.Sc. degree in
 [Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University.
 
 
